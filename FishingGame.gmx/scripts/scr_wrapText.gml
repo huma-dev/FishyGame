@@ -1,0 +1,1 @@
+draw_text(argument0, argument1, string_copy((ceil(argument4 / string_length(argument2)) + 1) * argument2, string_length(argument2) * (argument3 < 0) + argument3 mod string_length(argument2) + 1, argument4));
